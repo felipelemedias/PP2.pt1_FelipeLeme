@@ -1,72 +1,43 @@
 Felipe Leme Dias - 32121BSI07
-Link hospedado:
+Link hospedado: https://felipelemedias.github.io/PP2_FelipeLeme/index.html
 
 
-————– Etapa 1 (Entrega at ́e 02/06/2023) ————–
-- Projeto Prático - Requisitos
-* As páginas não devem conter anúncios *
+————– Etapa 1 (Entrega até 02/06/2023) ————–
 
-1. O trabalho prático consistir ́a na proposta, implementação e hospedagem de um site com a uti-
-lização de HTML, CSS, JavaScript, Bootstrap e PHP. É permitida a utilização de jQuery.
+Projeto Prático - Requisitos
+As páginas não devem conter anúncios *
+O trabalho prático consistirá na proposta, implementação e hospedagem de um site com a utilização de HTML, CSS, JavaScript, Bootstrap e PHP. É permitida a utilização de jQuery.
 
-2. O tema do trabalho dever ́a ser uma entre as op ̧c ̃oes: (i) site de uma organiza ̧c ̃ao, podendo ser
-inspirado em alguma organiza ̧c ̃ao existente ou em uma organiza ̧c ̃ao imaginada (criada) por vocˆe,
-ou (ii) site de um evento cient ́ıfico na  ́area de Sistemas de Informa ̧c ̃ao, podendo ser inspirado em
-algum evento cient ́ıfico existente ou em um evento cient ́ıfico imaginado (criado) por vocˆe.
+O tema do trabalho deverá ser uma entre as opções: (i) site de uma organização, podendo ser inspirado em alguma organização existente ou em uma organização imaginada (criada) por você, ou (ii) site de um evento científico na área de Sistemas de Informação, podendo ser inspirado em algum evento científico existente ou em um evento científico imaginado (criado) por você.
 
-3. As informa ̧c ̃oes contidas na p ́agina n ̃ao precisam ser reais, mas n ̃ao devem ser do tipo lorem
-ipsum.
+As informações contidas na página não precisam ser reais, mas não devem ser do tipo lorem ipsum.
 
-4. O site deve conter pelo menos trˆes p ́aginas diferentes (em arquivos html separados).
+O site deve conter pelo menos três páginas diferentes (em arquivos HTML separados).
 
-5. Todas as p ́aginas do site devem ser organizadas e estilizadas, e a consistˆencia entre elas deve ser
-mantida a n ̃ao ser que fortemente justificado.
+Todas as páginas do site devem ser organizadas e estilizadas, e a consistência entre elas deve ser mantida, a não ser que fortemente justificado.
 
-6. Todas as p ́aginas devem conter t ́ıtulo (tag title e tamb ́em na pr ́opria p ́agina a que aquela p ́agina
-se refere), menu de atalhos para acesso `as outras partes do site (o mesmo menu em todas as
-p ́aginas), e a p ́agina atual deve estar de forma destacada no menu para que o usu ́ario sempre
-saiba em qual p ́agina ele est ́a, e para quais outras ele pode ir.
+Todas as páginas devem conter título (tag title e também na própria página a que aquela página se refere), menu de atalhos para acesso às outras partes do site (o mesmo menu em todas as páginas), e a página atual deve estar destacada no menu para que o usuário sempre saiba em qual página ele está e para quais outras ele pode ir.
 
-7. Todas as p ́aginas componentes devem conter um rodap ́e com informa ̧c ̃oes relevantes tipicamente
-encontradas nesta parte da p ́agina.
+Todas as páginas componentes devem conter um rodapé com informações relevantes tipicamente encontradas nesta parte da página.
 
-8. Pelo menos uma p ́agina do site deve conter um formul ́ario com objetivo relevante para o tema do
-site (por exemplo, formul ́ario de inscri ̧c ̃ao para evento e formul ́ario de contato para organiza ̧c ̃ao).
-A p ́agina do formul ́ario para contato deve utilizar formul ́ario HTML para receber as informa ̧c ̃oes
-do usu ́ario. Para esse formul ́ario,  ́e obrigat ́oria a utiliza ̧c ̃ao de no m ́ınimo “input” do tipo text,
-checkbox e radio, e outros tipos tamb ́em podem ser utilizados.
+Pelo menos uma página do site deve conter um formulário com objetivo relevante para o tema do site (por exemplo, formulário de inscrição para evento e formulário de contato para organização). A página do formulário para contato deve utilizar formulário HTML para receber as informações do usuário. Para esse formulário, é obrigatória a utilização de no mínimo "input" do tipo text, checkbox e radio, e outros tipos também podem ser utilizados.
 
-9. Construa p ́aginas com responsividade para ajudar na visualiza ̧c ̃ao do site em diferentes telas.
+Construa páginas com responsividade para ajudar na visualização do site em diferentes telas.
 
-10. O aluno  ́e respons ́avel pela cria ̧c ̃ao de todos os arquivos html, JavaScript e PHP. Para a estiliza ̧c ̃ao
-pode-se utilizar coisas prontas (e.g., Bootstrap). Na argui ̧c ̃ao, todos dever ̃ao estar aptos a explicar
-todos os detalhes da constru ̧c ̃ao do site.
+O aluno é responsável pela criação de todos os arquivos HTML, JavaScript e PHP. Para a estilização, pode-se utilizar recursos prontos (por exemplo, Bootstrap). Na arguição, todos deverão estar aptos a explicar todos os detalhes da construção do site.
 
-11. Utilize JavaScript para atender os requisitos abaixo:
+Utilize JavaScript para atender aos requisitos abaixo:
 
-12. Na p ́agina que cont ́em o formul ́ario, ao preencher todos os dados, o usu ́ario deve clicar em
-um bot ̃ao de confirma ̧c ̃ao ou verifica ̧c ̃ao que ainda n ̃ao envia o formul ́ario, mas apenas faz a
-verifica ̧c ̃ao do preenchimento dos campos.
+Na página que contém o formulário, ao preencher todos os dados, o usuário deve clicar em um botão de confirmação ou verificação que ainda não envia o formulário, mas apenas faz a verificação do preenchimento dos campos.
 
-13. Todos os tipos de entrada devem ter alguma verifica ̧c ̃ao relevante, por exemplo, n ́umero de
-escolhidos para checkbox, n ̃ao vazio para campos de texto, valida ̧c ̃ao de valores para idades ou
-outras verifica ̧c ̃oes.
+Todos os tipos de entrada devem ter alguma verificação relevante, por exemplo, número de escolhas para checkbox, não vazio para campos de texto, validação de valores para idades ou outras verificações.
 
-14. Ao clicar no bot ̃ao de verifica ̧c ̃ao, os campos com problemas devem ser claramente indicados, e
-o detalhamento do erro deve ser indicado ao usu ́ario, por exemplo com uma borda em vermelho,
-e com um texto explicativo sobre o problema encontrado (span por exemplo).
+Ao clicar no botão de verificação, os campos com problemas devem ser claramente indicados, e o detalhamento do erro deve ser apresentado ao usuário, por exemplo, com uma borda em vermelho e um texto explicativo sobre o problema encontrado (span, por exemplo).
 
-15. Caso n ̃ao haja problemas apontados na verifica ̧c ̃ao, o usu ́ario deve visualizar de forma organizada
-todos os dados fornecidos (j ́a verificados), e o usu ́ario n ̃ao deve ter a possibilidade de
-alterar os campos preenchidos e verificados, at ́e que ele escolha a pr ́oxima a ̧c ̃ao.
-Essa visualiza ̧c ̃ao pode ser feita na pr ́opria p ́agina, com estiliza ̧c ̃ao, ou por meio de uma janela
-modal.
+Caso não haja problemas apontados na verificação, o usuário deve visualizar de forma organizada todos os dados fornecidos (já verificados), e o usuário não deve ter a possibilidade de alterar os campos preenchidos e verificados até que ele escolha a próxima ação. Essa visualização pode ser feita na própria página, com estilização, ou por meio de uma janela modal.
 
-16. Após a visualização dos dados preenchidos corretamente, o usuário deve ter três opções: (i)
-limpar todos os dados e recome ̧car o preenchimento, (ii) alterar os dados, que deve habilitar
-novamente o preenchimento pelo usu ́ario, mas mantendo os dados j ́a preenchidos para altera ̧c ̃ao,
-e (iii) enviar o formulário.
+Após a visualização dos dados preenchidos corretamente, o usuário deve ter três opções: (i) limpar todos os dados e recomeçar o preenchimento, (ii) alterar os dados, o que deve habilitar novamente o preenchimento pelo usuário, mas mantendo os dados já preenchidos para alteração, e (iii) enviar o formulário.
 
-17. O seu sistema deve cuidar para que n ̃ao haja a possibilidade de ataques XSS.
+O seu sistema deve cuidar para que não haja a possibilidade de ataques XSS.
 
-18. JavaScript pode ser usado para quaisquer outras funcionalidades que queira acrescentar no site.
+JavaScript pode ser usado para quaisquer outras funcionalidades que queira acrescentar no site.
